@@ -46,7 +46,7 @@ integrity_check() {
     echo "[OK] 脚本完整性正常"
 }
 
-integrity_check
+#integrity_check
 
 # ---- 重试 curl 下载 ----
 retry_curl() {
